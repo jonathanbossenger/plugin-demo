@@ -15,8 +15,16 @@ This is a WordPress plugin
 
 - **Node.js:** greater than v20.19.5
 - **npm:** greater than v10.8.2
-- **PHP:** 8.1 or higher (plugin requires PHP 8.1+)]
+- **PHP:** 8.1 or higher (plugin requires PHP 8.1+)
 - **Composer:** 2.8.12 or higher
+
+### Dependency Versions
+
+#### npm Packages
+- **@wordpress/scripts:** 30.26.0 or higher
+
+#### Composer Packages
+- **wp-coding-standards/wpcs:** 3.0 or higher
 
 ### Dependency Installation
 
