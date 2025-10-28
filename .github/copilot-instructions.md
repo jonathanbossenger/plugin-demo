@@ -4,10 +4,10 @@
 
 This is a WordPress plugin
 
-**Repository Type:** WordPress Plugin
-**Primary Language:** PHP, JavaScript (React/JSX)
-**Frameworks:** WordPress, WordPress Block Editor (Gutenberg), @wordpress/scripts
-**Target Runtime:** WordPress 6.8+, PHP 8.1+, Node.js 20+
+- **Repository Type:** WordPress Plugin
+- **Primary Language:** PHP, JavaScript (React/JSX)
+- **Frameworks:** WordPress, WordPress Block Editor (Gutenberg), @wordpress/scripts
+- **Target Runtime:** WordPress 6.8+, PHP 8.1+, Node.js 20+
 
 ## Critical Build Instructions
 
