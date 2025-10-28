@@ -247,6 +247,7 @@ function my_function() {
 - The plugin uses WordPress 6.8+ block registration API with blocks-manifest.php for improved performance
 - All source files are in `src/[your-block-name]/`, all build outputs go to `build/[your-block-name]/`
 - This project follows WordPress coding standards, which use TABS for indentation
+- Do not generate additional files beyond what is required for the assigned task (e.g., summary or documentation files) unless explicitly requested
 - [Add notes about tests, CI/CD, documentation as applicable to your project]
 
 ## Trust These Instructions
