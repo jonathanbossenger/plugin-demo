@@ -1,6 +1,6 @@
 {
     "name": "jonathanbossenger/plugin-demo",
-    "description": "composer config allow-plugins.dealerdirect/phpcodesniffer-composer-installer true",
+    "description": "A Demo WordPress plugin to create Copilot Instructions.",
     "type": "wordpress-plugin",
     "license": "GPL-2.0-or-later",
     "authors": [

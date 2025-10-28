@@ -6,7 +6,7 @@
 	"title": "Plugin Demo",
 	"category": "widgets",
 	"icon": "smiley",
-	"description": "Example block scaffolded with Create Block tool.",
+	"description": "A Demo WordPress plugin to create Copilot Instructions.",
 	"example": {},
 	"supports": {
 		"html": false
