@@ -205,20 +205,6 @@ function my_function() {
 }
 ```
 
-**Why this matters:**
-- Improves code readability and maintainability
-- Follows WordPress coding standards
-- Makes it immediately clear what hooks are being used
-- Prevents potential issues with function availability
-
-**Example from this plugin:**
-```php
-add_action( 'init', 'jonathanbossenger_plugin_demo_block_init' );
-function jonathanbossenger_plugin_demo_block_init() {
-	wp_register_block_types_from_metadata_collection( __DIR__ . '/build', __DIR__ . '/build/blocks-manifest.php' );
-}
-```
-
 ## Validation Workflow
 
 **Before committing any code changes, ALWAYS run in this order:**
