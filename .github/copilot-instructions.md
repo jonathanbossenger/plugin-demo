@@ -250,7 +250,6 @@ function my_function() {
 
 ## Important Notes
 
-- The `build/` directory is git-ignored but REQUIRED for the plugin to function
 - Never edit files in `build/` directly - they are auto-generated
 - The plugin uses WordPress 6.8+ block registration API with blocks-manifest.php for improved performance
 - All source files are in `src/[your-block-name]/`, all build outputs go to `build/[your-block-name]/`
